@@ -14,12 +14,12 @@
 - The device should also have USB debugging or remote debugging enabled.
 
 ### Following
-- The script is based on the following assumptions:
-- - adb is installed and configured
-- - the device is connected
-- - developer mode is enabled
-- - USB debugging or remote debugging is enabled
-- - the remote directory and local directory paths are correct
+  The script is based on the following assumptions:
+  - adb is installed and configured
+  - the device is connected
+  - developer mode is enabled
+  - USB debugging or remote debugging is enabled
+  - the remote directory and local directory paths are correct
 
 ### Statement
 - This software is provided "as is" without any warranty or guarantee of any kind,
